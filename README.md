@@ -1,18 +1,18 @@
 # Gas Utility Service Django Application
 
 # Overview
-  The Gas Utility Service Django application is designed to provide an online platform for gas utility customers to submit service requests, track the status of their requests, and view their account information. Additionally, customer support representatives can manage service requests and provide support to customers.
-
+  The Gas Utility Service Django application is designed to provide an online platform for gas utility customers to submit service requests, track the status of their requests, and view their account information. Additionally, customer support representatives can manage service requests and provide support to customers.  
+  
 # Features
-  **Customer Service Request Submission**: Customers can submit service requests online, including selecting the type of service, providing details, and attaching files.
-  **Request Tracking**: Customers can track the status of their service requests, view submission dates, and resolution dates.
-  **Account Information**: Customers can view and update their account information, including address and phone number.
-  **Customer Support Management**: Support representatives can manage and resolve service requests.
+  **Customer Service Request Submission**: Customers can submit service requests online, including selecting the type of service, providing details, and attaching files.  
+  **Request Tracking**: Customers can track the status of their service requests, view submission dates, and resolution dates.  
+  **Account Information**: Customers can view and update their account information, including address and phone number.  
+  **Customer Support Management**: Support representatives can manage and resolve service requests.  
 
 # Prerequisites
-  Python 3.12 or higher
-  Django 5.0.7
-  A virtual environment for Python dependencies
+  Python 3.12 or higher  
+  Django 5.0.7  
+  A virtual environment for Python dependencies  
 
 # Installation
 **1. Clone the Repository**
