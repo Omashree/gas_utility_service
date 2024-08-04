@@ -48,12 +48,12 @@
   - Admin Interface: Access the Django admin interface at /admin to manage users, service requests, and other administrative tasks.  
 
 # User Roles
-  **- Customer**: Can submit and track service requests, and manage their account information.  
-  **- Support Representative**: Can manage and resolve service requests through the Django admin interface.  
+  - **Customer**: Can submit and track service requests, and manage their account information.  
+  - **Support Representative**: Can manage and resolve service requests through the Django admin interface.  
 
 # Configuration Settings
-  **- Database**: By default, the application uses SQLite. Modify settings.py to configure a different database if needed.  
-  **- Static Files**: Static files are served from the static/ directory. Ensure the STATIC_URL and STATIC_ROOT settings are configured correctly.  
+  - **Database**: By default, the application uses SQLite. Modify settings.py to configure a different database if needed.  
+  - **Static Files**: Static files are served from the static/ directory. Ensure the STATIC_URL and STATIC_ROOT settings are configured correctly.  
 
 # Contributing
   - Fork the repository.  
