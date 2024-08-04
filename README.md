@@ -16,27 +16,27 @@
 
 # Installation
 **1. Clone the Repository**
-    - git clone https://github.com/yourusername/gas_utility_service.git  
-    - cd gas_utility_service  
+      - git clone https://github.com/yourusername/gas_utility_service.git  
+      - cd gas_utility_service  
 **2. Set Up a Virtual Environment**  
-    - Create and activate a virtual environment:  
-    - python -m venv myenv  
-    - source myenv/bin/activate  # On Windows use `myenv\Scripts\activate`  
+      - Create and activate a virtual environment:  
+      - python -m venv myenv  
+      - source myenv/bin/activate  # On Windows use `myenv\Scripts\activate`  
 **3. Install Dependencies**  
-    - Install the required Python packages:  
-    - pip install -r requirements.txt  
+      - Install the required Python packages:  
+      - pip install -r requirements.txt  
 **4. Set Up the Database**  
-    - Apply the database migrations:  
-    - python manage.py makemigrations  
-    - python manage.py migrate  
+      - Apply the database migrations:  
+      - python manage.py makemigrations  
+      - python manage.py migrate  
 **5. Create a Superuser**  
-    - Create a superuser account for accessing the Django admin interface:  
-    - python manage.py createsuperuser  
-    - Follow the prompts to set up the superuser account.  
+      - Create a superuser account for accessing the Django admin interface:  
+      - python manage.py createsuperuser  
+      - Follow the prompts to set up the superuser account.  
 **6. Run the Development Server**  
-    - Start the Django development server:  
-    - python manage.py runserver  
-    - Visit http://127.0.0.1:8000/ in your web browser to view the application.  
+      - Start the Django development server:  
+      - python manage.py runserver  
+      - Visit http://127.0.0.1:8000/ in your web browser to view the application.  
 
 # Usage Accessing the Application
 **Customer Features:**  
